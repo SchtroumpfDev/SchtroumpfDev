@@ -26,6 +26,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+![Static Badge](https://img.shields.io/badge/IONOS-%23003D8F?logo=IONOS)
 
 - IDE
 
