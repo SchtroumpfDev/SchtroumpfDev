@@ -17,34 +17,34 @@
 
 - Os 
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
 - Hosting
 
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](#)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/IONOS-%23003D8F?logo=IONOS&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/IONOS-%23003D8F?logo=IONOS)
 
 - IDE
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
-[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 
 - Software
 
 ![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%234E3188?logo=Affinity%20Photo&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Affinity%20Designer-%23134881?logo=Affinity%20Designer&logoColor=white)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Home%20Assistant-%2318BCF2?logo=Home%20Assistant&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/WireGuard-%2388171A?logo=WireGuard&logoColor=white)
 
 
