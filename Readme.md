@@ -23,13 +23,13 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tails-%2356347C?logo=Tails&logoColor=white)
 
 - Hosting
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OVH-%23123F6D?logo=OVH&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/IONOS-%23003D8F?logo=IONOS&logoColor=white)
-![Static Badge](https://img.shields.io/badge/IONOS-%23003D8F?logo=IONOS)
 
 - IDE
 
@@ -43,7 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/Affinity%20Designer-%23134881?logo=Affinity%20Designer&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Home%20Assistant-%2318BCF2?logo=Home%20Assistant&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/WireGuard-%2388171A?logo=WireGuard&logoColor=white)
 
