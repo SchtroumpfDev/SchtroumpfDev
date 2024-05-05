@@ -61,6 +61,5 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=schtroumpfdev&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=schtroumpfdev&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=schtroumpfdev&theme=solarized-light&hide_border=true&background=FFFFFF00">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SchtroumpfDev.png" alt="TryHackMe">
 </p>
 
